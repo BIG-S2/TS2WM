@@ -1,0 +1,12 @@
+---> Input Arguments:
+---> Cohort: Validation
+---> UserID: 375089252773311718
+---> Reading TeamName from Input List
+This evaluation script is not in challenge mode. teamname is automatically assigned as 375089252773311718.
+---> Creating Temporary Directory
+---> Creating Spreadsheet of Input Data and Finding Matching GTs
+----> Running Evaluation Script for every input case with a found ground truth
+---> Consolidating Group Statistics
+---> Copying Results to Output Directories
+---> Removing Temporary Directory
+---> Removing IPP Files
